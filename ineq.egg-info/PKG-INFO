@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: ineq
+Version: 0.1
+Summary: Package to calculate and plot income distribution indexes
+Home-page: http://github.com/gpetrini/ineq
+Author: Gabriel Petrini da Silveira
+Author-email: gpetrinidasilveira@gmail.com
+License: MIT
+Description: Inequality
+        --------
+        
+        To use, simply do::
+        
+            >>> import ineq
+            >>> from ineq.indexes import gini
+            >>> gini(x)
+        
+Keywords: Income distribution
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Economics :: Inequality :: Income distribution

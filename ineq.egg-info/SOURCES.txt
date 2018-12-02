@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+ineq/__init__.py
+ineq/curves.py
+ineq/indexes.py
+ineq/tables.py
+ineq.egg-info/PKG-INFO
+ineq.egg-info/SOURCES.txt
+ineq.egg-info/dependency_links.txt
+ineq.egg-info/not-zip-safe
+ineq.egg-info/requires.txt
+ineq.egg-info/top_level.txt
